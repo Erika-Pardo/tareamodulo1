@@ -1,2 +1,5 @@
 # tareamodulo1
-Este repositorio está destinado a la tarea del modulo 1 de argentina programa :)
+Estados de los archivos
+U: Untracked files (git todavia no tiene registros)
+M : modified (está modificado)
+A : agregado con git add . o git add "archivo.extension"
