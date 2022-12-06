@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # tareamodulo1
-Este repositorio está destinado a la tarea del modulo 1 de argentina programa :)
+Este repositorio está destinado a la tarea del modulo 1 de argentina programa (front end)
 =======
 Estados de los archivos
 U: Untracked files (git todavia no tiene registros)
